@@ -1,0 +1,10 @@
+/target
+/.settings
+/.classpath
+/.project
+/build
+/bin
+
+*.swp
+pom.xml~
+.DS_Store
